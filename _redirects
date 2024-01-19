@@ -1,3 +1,4 @@
 /jj /gogo 200
+testrepo-8ze.pages.dev www.myipaddress.live 200
 / https://www.myipaddress.live/ 301
 /articles/* https://www.myipaddress.live/articles/:splat 301
